@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/PlatformerMenu.unity
+    guid: a5543afb325d349aebe155eb9e9a13fd
+  - enabled: 1
+    path: Assets/Scenes/PlatformerLevel1.unity
+    guid: 1b4c07d6a085c43208574e1eb3f3dd72
+  - enabled: 1
+    path: Assets/Scenes/PlatformerLevel2.unity
+    guid: fe78cef69367c4618b81cdfcd3b061b7
+  - enabled: 1
+    path: Assets/Scenes/PlatformerLevel3.unity
+    guid: ad1aca0dc289d49819c365f4e7697696
+  - enabled: 1
+    path: Assets/Scenes/PlatformerLevel4_Week3Demo.unity
+    guid: 650d782b8026acc4488525a71c3dd637
+  - enabled: 1
+    path: Assets/Scenes/PlatformerLevel5_Week3Demo2DSpriteShape.unity
+    guid: ce544a05a1bfe5140bc5d7d1ae114aec
+  - enabled: 1
+    path: Assets/Scenes/PlatformerLevel6_Week3DemoTilemap.unity
+    guid: e9733766701d6c243b6b97281f4261a8
+  - enabled: 1
+    path: Assets/Scenes/PlatformerLevel7_Week3Demo2DPhysics.unity
+    guid: 0ed64a9ead995c544868b43bd44c950e
+  - enabled: 1
+    path: Assets/Scenes/PlatformerLevel8_Week4DemoGeoExperiments.unity
+    guid: 58093adf7ae459546a958ee68562c539
+  - enabled: 1
+    path: Assets/Scenes/PlatformerLevel9_Week4TimerDemo.unity
+    guid: 503be75adbbc050459831ccc567803de
+  - enabled: 1
+    path: Assets/Scenes/PlatformerLevel10_Week6DemoBackgroundParallax.unity
+    guid: 8c694c2c964d88b498871c97e8d385c0
+  m_configObjects: {}

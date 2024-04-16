@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: d52d5861d518a9749b916438e8feed2e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5661093208358211616
+    second: ObstacleSpriteSheet_0
+  - first:
+      213: 3941979778060054043
+    second: ObstacleSpriteSheet_1
+  - first:
+      213: 6153121515867223089
+    second: ObstacleSpriteSheet_2
+  - first:
+      213: -2048298863173357054
+    second: ObstacleSpriteSheet_3
+  - first:
+      213: 8683626606016709631
+    second: ObstacleSpriteSheet_4
+  - first:
+      213: 8018131147507685
+    second: ObstacleSpriteSheet_5
+  - first:
+      213: 8133066717364079298
+    second: ObstacleSpriteSheet_6
+  - first:
+      213: 5168506803201652753
+    second: ObstacleSpriteSheet_7
+  - first:
+      213: -5660959581729742116
+    second: ObstacleSpriteSheet_8
+  - first:
+      213: -55307757431743880
+    second: Prop_ObstacleSpriteSheet_0
+  - first:
+      213: -3264529472505173520
+    second: Prop_ObstacleSpriteSheet_1
+  - first:
+      213: -7821614521253087458
+    second: Prop_ObstacleSpriteSheet_2
+  - first:
+      213: 7002393309635007596
+    second: Prop_ObstacleSpriteSheet_3
+  - first:
+      213: 5098986139742405490
+    second: Prop_ObstacleSpriteSheet_4
+  - first:
+      213: -925690213599960290
+    second: Prop_ObstacleSpriteSheet_5
+  - first:
+      213: 3735008252068897293
+    second: Prop_ObstacleSpriteSheet_6
+  - first:
+      213: 7879052222079932817
+    second: Prop_ObstacleSpriteSheet_7
+  - first:
+      213: 2179606205670127268
+    second: Prop_ObstacleSpriteSheet_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Prop_ObstacleSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1541
+        width: 763
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a15fc33e18b3ff0800000000000000
+      internalID: -55307757431743880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop_ObstacleSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1541
+        width: 1277
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f92980bdbf02b2d0800000000000000
+      internalID: -3264529472505173520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop_ObstacleSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1293
+        width: 248
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e173caa980b047390800000000000000
+      internalID: -7821614521253087458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop_ObstacleSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1294
+        width: 1011
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64dd566d9f7d2160800000000000000
+      internalID: 7002393309635007596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop_ObstacleSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 775
+        width: 2048
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2738cf5e0ec33c640800000000000000
+      internalID: 5098986139742405490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop_ObstacleSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 1021
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13a15eb7a94723f0800000000000000
+      internalID: -925690213599960290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop_ObstacleSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 517
+        width: 1017
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0228b1673a65d330800000000000000
+      internalID: 3735008252068897293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop_ObstacleSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1004
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19993df3044085d60800000000000000
+      internalID: 7879052222079932817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop_ObstacleSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 0
+        width: 1017
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a67437cb448f3e10800000000000000
+      internalID: 2179606205670127268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
